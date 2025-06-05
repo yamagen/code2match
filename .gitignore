@@ -1,0 +1,50 @@
+# コンパイル済みオブジェクトファイル
+*.o
+*.obj
+
+# 実行ファイル（プラットフォームごとに例示）
+a.out
+a.exe
+a.out.dSYM/
+*.exe
+*.out
+*.elf
+
+# 依存関係生成ファイル
+*.d
+
+# ライブラリや静的リンクファイル
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# バックアップファイル
+*~
+*.bak
+*.swp
+*.swo
+
+# cscope, ctags, etags, GDB
+cscope.*
+tags
+TAGS
+*.gdb
+*.core
+core
+
+# テストやカバレッジ生成ファイル
+*.gcno
+*.gcda
+*.gcov
+
+# Visual Studio Code や Xcode などエディタ固有
+.vscode/
+.idea/
+*.code-workspace
+*.DS_Store
+
+# ビルドディレクトリ（make で自動生成されるもの）
+build/
+bin/
