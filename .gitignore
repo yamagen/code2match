@@ -10,6 +10,17 @@ a.out.dSYM/
 *.out
 *.elf
 
+c2t
+code2match
+comp
+file2code
+mkj
+mkt
+o2c
+op2code
+pex
+t2c
+
 # 依存関係生成ファイル
 *.d
 
