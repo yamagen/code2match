@@ -37,7 +37,7 @@ PROG7 = code2match
 PROG8 = c2t
 PROG9 = pex
 
-JUNK = *.aux *.log *.dvi *~
+JUNK = *.aux *.log *.dvi *~ $(PROG1) $(PROG2) $(PROG3) $(PROG4) $(PROG5) $(PROG6) $(PROG7) $(PROG8) $(PROG9)
 
 all:	$(PROG1) $(PROG2) $(PROG3) $(PROG4) $(PROG5) $(PROG6) $(PROG7) $(PROG8) $(PROG9)
 
