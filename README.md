@@ -11,6 +11,7 @@
   - ch: place name list
   - pn: personal name list
   - ka: kago (poetic word) list
+  - category: cagegory list of bg-codes
 
 ### **code2match**: Code Matching Tools
 
