@@ -1,5 +1,17 @@
 # code2match: code matching tools
 
+## Directory Structure
+
+- src: code matching tools
+- data: code matching data
+  - kokin: Kokin Wakashu data with wslp codes
+  - kaneko: Kaneko's translation data with wslp codes
+- tables: list of code:
+  - bg: basic word list
+  - ch: place name list
+  - pn: personal name list
+  - ka: kago (poetic word) list
+
 ### **code2match**: Code Matching Tools
 
 ```
