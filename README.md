@@ -24,7 +24,18 @@
 
 ```
 
-## Makefile for code2match tools
+### **data**: Code Matching Data
+
+- data/kokin/: Kokin Wakashu data with wslp codes
+- data/kaneko/: Kaneko's translation data with wslp codes
+
+### **example**
+
+```
+% cat data/kokin/0005.db.txt data/kaneko/0005.db.txt | code2match -a
+```
+
+### Makefile for code2match tools
 
 ```
 Makefile
